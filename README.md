@@ -1,2 +1,2 @@
-# Komal2131.first-demo
+# Komal2131.demo
 This is my first Git repository..
